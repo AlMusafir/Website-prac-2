@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-container{
+    background-color:rgb(61, 57, 57) ;
+    padding: 20px;
+    color: antiquewhite;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+
+}
+
+
+.logo-photo{
+    width: 330px ;
+}
+
+
+
+
+.menus{
+    display: flex;
+    
+}
+
+.item{
+    margin-right: 10px ;
+    padding: 7px;
+    font-size: 15px;
+    cursor:pointer;
+}
+
+.item:hover{
+    color: violet;
+    
+}    
+
+
+
+
+
+
+
+
+
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    /* border: 2px solid black; */
+    background-color:rgb(48, 44, 44);
+    color: whitesmoke;
+
+}
+
+
+
+.banner-img{
+    width: 300px ;
+}
+
+ #aboutus{
+    font-size: 50px ;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 75px;
+    margin-bottom: 5px;
+} 
+
+
+
+
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+
+.description{
+    font-size: 18px;
+    margin-top: 18px ;
+    margin-bottom: 20px ;
+}
+
+
+.btn{
+    padding: 10px 15px ;
+    background-color: crimson;
+    color: white;
+    border: none ;
+    border-radius:5px ;
+    
+}
+
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items:center ;
+    flex-direction: row-reverse;
+
+}
+
+.btn:hover{
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
